@@ -6,6 +6,16 @@ Projeto construído como parte da Imersão de Dados com Python da Alura
 Este repositório contém os materiais e exercícios desenvolvidos durante a **Imersão de Dados com Python da Alura**.  
 O objetivo é aplicar conceitos fundamentais de **análise de dados**, utilizando ferramentas do ecossistema Python para explorar, limpar e interpretar informações do mundo real.
 
+### 📚 Objetivos de aprendizado
+- Manipulação e análise de dados com Pandas
+- Criação de estatísticas descritivas para entender datasets
+- Construção de gráficos e storytelling com dados
+- Desenvolvimento de aplicações interativas com Streamlit
+- Publicação de projetos de dados na nuvem
+
+### 🤝 Créditos 
+Alura 
+
 ---
 
 ## 🚀 Tecnologias utilizadas
@@ -58,15 +68,14 @@ O objetivo é aplicar conceitos fundamentais de **análise de dados**, utilizand
    ```powershell
    git clone https://github.com/seu-usuario/imersao-dados-python.git
 
-## Criar um ambiente virtual
-```powershell
-python -m venv .venv
-.venv\Scripts\activate   # Windows
-source .venv/bin/activate  # Linux/Mac
+2. Criar um ambiente virtual
+   ```powershell
+   python -m venv .venv
+   .venv\Scripts\activate   # Windows
+   source .venv/bin/activate  # Linux/Mac
 
-### 📚 Objetivos de aprendizado
-- Manipulação e análise de dados com Pandas
-- Criação de estatísticas descritivas para entender datasets
-- Construção de gráficos e storytelling com dados
-- Desenvolvimento de aplicações interativas com Streamlit
-- Publicação de projetos de dados na nuvem
+3. Instalar as dependências
+   ```powershell
+   pip install -r requirements.txt
+
+
