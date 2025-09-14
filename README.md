@@ -55,10 +55,11 @@ O objetivo é aplicar conceitos fundamentais de **análise de dados**, utilizand
 
 ## 🛠 Como executar
 1. Clone este repositório:
-   ```bash
+   ```powershell
    git clone https://github.com/seu-usuario/imersao-dados-python.git
 
 ## Criar um ambiente virtual
+```powershell
 python -m venv .venv
 .venv\Scripts\activate   # Windows
 source .venv/bin/activate  # Linux/Mac
