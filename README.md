@@ -1,10 +1,9 @@
-# imersao-dados-com-python-alura
-Projeto construído como parte da Imersão de Dados com Python da Alura
-
 # 📊 Imersão de Dados com Python - Alura
-
+Projeto construído como parte da Imersão de Dados com Python da Alura.
 Este repositório contém os materiais e exercícios desenvolvidos durante a **Imersão de Dados com Python da Alura**.  
 O objetivo é aplicar conceitos fundamentais de **análise de dados**, utilizando ferramentas do ecossistema Python para explorar, limpar e interpretar informações do mundo real.
+
+🎯 Dashboard: https://dash-dados-com-python.streamlit.app/
 
 ### 📚 Objetivos de aprendizado
 - Manipulação e análise de dados com Pandas
@@ -65,17 +64,25 @@ Alura
 
 ## 🛠 Como executar
 1. Clone este repositório:
-   ```powershell
+   ```bash
    git clone https://github.com/seu-usuario/imersao-dados-python.git
 
 2. Criar um ambiente virtual
-   ```powershell
+   ```bash
    python -m venv .venv
    .venv\Scripts\activate   # Windows
    source .venv/bin/activate  # Linux/Mac
 
 3. Instalar as dependências
-   ```powershell
+   ```bash
    pip install -r requirements.txt
 
-
+## 🟢 Aplicação no Ar!
+Acesse https://streamlit.io/
+* Login com os dados do Github
+* Create app (criar a aplicação)
+* Deploy a public app from Github (Deploy através do aplicativo público do Github)
+* Inserir o nome do seu repositório
+* Inserir o Branch
+* Inserir o caminho do arquivo principal (.py)
+* Inserir a URL do aplicativo (opcional)
