@@ -1,4 +1,4 @@
-# 📊 Imersão de Dados com Python - Alura
+# 📊 Imersão de Dados com Python
 Projeto construído como parte da Imersão de Dados com Python da Alura.
 Este repositório contém os materiais e exercícios desenvolvidos durante a **Imersão de Dados com Python da Alura**.  
 O objetivo é aplicar conceitos fundamentais de **análise de dados**, utilizando ferramentas do ecossistema Python para explorar, limpar e interpretar informações do mundo real.
