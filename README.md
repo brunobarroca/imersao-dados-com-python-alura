@@ -15,8 +15,6 @@ O objetivo é aplicar conceitos fundamentais de **análise de dados**, utilizand
 ### 🤝 Créditos 
 Alura 
 
----
-
 ## 🚀 Tecnologias utilizadas
 - Python 3.x
 - Google Colab
@@ -25,8 +23,6 @@ Alura
 - Matplotlib / Seaborn
 - Plotly
 - Streamlit
-
----
 
 ## 📚 Conteúdo abordado
 
